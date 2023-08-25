@@ -2,4 +2,4 @@
 
 This is my first Git Repo.
 <br/>
-Author - Rajratan gaikwad
+Author - Rajratan Gaikwad
